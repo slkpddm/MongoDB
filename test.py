@@ -14,4 +14,9 @@ collection1 = db1["test"]
 record = {"name":"Super_Star-SKP" , "ID":"R141038" , "State":"Andra Pradesh"}
 collection1.insert_one(record)
 
+record = {"name":"Mahesh" , "ID":"R141039" , "State":"Andra Pradesh"}
+collection1.insert_one(record)
+
+record = {"name":"Yodendra" , "ID":"R141040" , "State":"Andra Pradesh"}
+collection1.insert_one(record)
 
